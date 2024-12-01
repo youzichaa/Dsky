@@ -3,8 +3,6 @@
 *.o
 *.o.d
 *.gcov
-bin/
-build*/
 cmake-build-debug
 docs/doxygen
 docs/sphinx
@@ -69,5 +67,3 @@ src/circuit/lib/*.hh
 # gtest output files
 test_detail.xml
 
-# Visual Studio Code
-.vscode

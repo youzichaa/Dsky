@@ -33,3 +33,17 @@ the test result is generated in the following file:"./dataTest/Time-12-1T.txt"
 
 The iteration number n1, skyline number n2, \sum function number n3, Query Time, Query Cost are printed. For example:
 ![image-20241201152216874](README.assets/image-20241201152216874.png)
+
+
+
+## ！Note
+
+If you want to modify the "skyline.cpp" file and actually produce the new executable, follow **openfhe**'s process: https://openfhe-development.readthedocs.io/en/latest/sphinx_rsts/intro/installation/installation.html
+
+In a nutshell:
+
+```
+cd build
+cmake ..
+make install
+```

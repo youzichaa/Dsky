@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -O3  -DOPENFHE_VERSION=1.2.1 -Wno-parentheses -DMATHBACKEND=4 -fopenmp -O3 -DNDEBUG    CMakeFiles/boolean-lmkcdey.dir/examples/boolean-lmkcdey.cpp.o  -o ../../bin/examples/binfhe/boolean-lmkcdey  -Wl,-rpath,/home/chenyu97/github.com/openfhe-development/build/lib ../../lib/libOPENFHEbinfhe.so.1.2.1 ../../lib/libOPENFHEcore.so.1.2.1 -fopenmp 
