@@ -6,7 +6,7 @@ The source code is located in ./openfhe-development/src/pke/examples/skyline.cpp
 
 run the code:
 
-`cd ./build\bin/examples/pke/`
+`cd ./build/bin/examples/pke/`
 
 To test the files, we prepared the relevant executables, where "skylineTime-T" stands for basic filtering, "skylineTime-2T" for optimized filtering. "skylineGen.cpp" where its "data_pro.o" is used for dataset generation.
 Moreover, we construct shell files where: 
